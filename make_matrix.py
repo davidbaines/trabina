@@ -1,32 +1,25 @@
 #!/usr/bin/env python3
 
 import csv
+from collections import Counter
+import numpy as np
 import os
 import pandas as pd
 from pathlib import Path
 import sys
 
 def get_macula_df(file, sep="\t"):
+
+    # Load the 
     macula_df = pd.read_csv(file, dtype=str, sep=sep)
     macula_df.fillna('', inplace=True)
     
+    #print(macula_df)
+    
+    #Index(['ref', 'Original unicode', 'Hebrew Original', 'Aramaic Original', 'Greek Original', 'Greek lemma', 'Greek normalized', 'Greek gloss', 'English gloss', 'Mandarin gloss']
+    
     return macula_df
 
-def load_macula_data(file):
-    
-    csv.register_dialect('default')
-        
-    #fieldnames  = ["ref", "Original unicode", "Hebrew Original", "Aramaic Original", "Greek Original", "Greek lemma", "Greek normalized", "Greek gloss", "English gloss", "Mandarin gloss"]
-    
-    with open(file, newline='') as csvfile:
-        reader = csv.reader(csvfile)
-        for i,row in enumerate(reader):
-           if i == 0:
-               fieldnames = row.split("\t")
-               print(f"fieldnames are : {fieldnames}")
-           
-    return 
-    
 
 def get_name_matrix(folder):
     
@@ -42,80 +35,124 @@ def get_name_matrix(folder):
             all_names[file.name] = names   
     
     return all_names
+    
+def get_matches(sources, targets):
+    sources = set(sources)
+    exact_matches = [target for target in targets if target in sources]
+    non_matches   = [target for target in targets if target not in sources]
+           
+    return exact_matches, non_matches
 
-def get_matches(source_df, source_column , target_values):
-    matches = []
-    non_matches = []
-    fixed_matches = dict()
-    
-    source_values = set(source_df[source_column])
-    for target_value in set(target_values):
-       if target_value in source_values:
-           matches.append(target_value)
-       else:
-           non_matches.append(target_value)
-    
-    for non_match in sorted(non_matches):
-        # print(f"Try to match {non_match}")
-        
-        for source_value in source_values:
-                                        
-            #First try splitting into single words
-            try:
-                source_words = source_value.split(' ')                    
-                if non_match in source_words:
-                    if non_match in fixed_matches :
-                        fixed_matches[non_match].append(source_value)
-                        #print(f"\nLooking for {non_match}.  Found it in {source_words}.\n{fixed_matches[non_match]}\n")
-                    else :    
-                        fixed_matches[non_match] = [source_value]
-                        #print(f"Added to match {fixed_matches[non_match]}")
-                        
-            except ValueError:
-                continue
-                
-    # Remove newly matched from non_matches    
-    not_matched = [non_match for non_match in non_matches if non_match not in fixed_matches.keys()]
-            
-    
-    return matches, not_matched, fixed_matches
 
+    
+
+def fix_matches_on_words(source_values,non_matches):
+
+    still_dont_match = []
+
+    # Get only sources with spaces:
+    split_sources = [source.split(' ') for source in source_values if ' ' in source]
+    sources = [source for source in source_values if ' ' in source]
+    print(sources)
+    exit()
+    
+    # Now check whether each non-match has a match:
+    non_exact_matches = []
+    for non_match in non_matches:
+        pass
+
+    return matches
+    
 if __name__ == '__main__':
     
     data_folder = Path("D:/GitHub/trabina/data") 
     by_lang_folder = data_folder / "by-lang"
-    english_names_file = by_lang_folder / "eng"
+    jhu_filename = "eng"
+    compare_col = "English gloss"
+    english_names_file = by_lang_folder / jhu_filename
+    updated_macula_data_tsv = data_folder / "updated_macula_names.tsv"
     
     macula_data_tsv = data_folder / "macula_names.tsv"
     macula_df = get_macula_df(macula_data_tsv)
     
-    #print(macula_df.columns)
-    #Index(['ref', 'Original unicode', 'Hebrew Original', 'Aramaic Original', 'Greek Original', 'Greek lemma', 'Greek normalized', 'Greek gloss', 'English gloss', 'Mandarin gloss']
-      
-
-    
-    
-    #load_macula_data(macula_data_tsv)
-    #english_jhu_names = get_english_names(english_names_file)
-    #jhu_dict = dict("English": english_jhu_names)
-    
-    #print(f"JHU dataframe is:\n{jhu_df}")
+    simple_df = macula_df.drop(columns= ['ref','Hebrew Original', 'Aramaic Original', 'Greek Original'])
+    print(f"\nThe simple macula dataframe has these columns:\n{simple_df.columns}")
+    #print(simple_df)
     
     #Get all the names and make a dataframe
     all_jhu_names = get_name_matrix(by_lang_folder)
     jhu_df = pd.DataFrame.from_dict(all_jhu_names, dtype=str)
     
-    # Make the English name the index
-    jhu_df.set_index('eng', inplace=True)
-      
-    #print(jhu_df.index)
-    #for name in jhu_df.index:
-    #    print(name)
+    print(f"\nThe JHU dataframe has these columns:\n {jhu_df.columns}")  
+    print(jhu_df.eng)
         
-    #Match up the JHU English names with the Macula English Glosses    
-    matches, non_matches, fixed_matches = get_matches(macula_df, "English gloss",jhu_df.index)
+    # Get the unique set of English names from both datasets.
+    macula_eng_names = simple_df[compare_col].unique()
+    jhu_eng_names = jhu_df.eng.unique()
     
-    print(f"\nNo matches were found for these {len(non_matches)} words.")
-    print(non_matches)
+    print(f"\nThere are {len(macula_eng_names)} unique macula_eng_names and {len(jhu_eng_names)} unique jhu_eng_names.\n")
     
+    #Concatenate the two dataframes joining on exact matches of 
+    # 'English gloss' and jhu_eng columns. Retain both.
+
+    new_macula_df = pd.merge(macula_df,jhu_df, how='outer', left_on=compare_col, right_on= jhu_filename, indicator=True)
+    new_macula_df = new_macula_df.rename(columns={"_merge": "matched_on_eng"})
+#    new_macula_df['_merge'].cat.rename_categories({'left_only':'left_only', 'right_only':'right_only', 'both': 'matched on eng'})
+#    new_macula_df['_merge'] = new_macula_df['_merge'].replace(['both'],'matched on eng')
+    print(new_macula_df['matched_on_eng'])
+    print(new_macula_df)
+    #exit()
+    
+    #Select unmatched  and try to match on Greek, Hebrew or partial English matches.
+    
+    
+    
+    
+    
+    # Leave non-exact_matching for later.
+    #print(f"\nInitially, found {len(exact_matches)} exact matches between the macula English gloss and the JHU eng name.\n There are {len(non_matches)} that don't match exactly.")
+    
+    #non_exact_matches = fix_matches_on_words(macula_df[compare_col],non_matches)
+    
+    #print(f"\nFound {len(non_exact_matches)} non exact matches between the macula English gloss and the JHU eng name.")
+    #print(non_exact_matches)
+    
+    #print(f"\nMatches were found for these {len([match for match in matches if match ])} words.")
+    
+    ## Make the English name the index
+    #jhu_df.set_index('eng', inplace=True)
+
+    # Count every word.
+    #word_counter = Counter()
+    
+    #for source in sources:
+    #    word_counter.update(source)
+    
+    #print(len(word_counter))
+    # Notice that some very common ones are names.
+    # Notice that some very uncommon ones are not names.
+    # Uncommon ones that aren't names tend to include common words.
+    # Uncommon ones that aren't names tend to include punctuation.
+    
+    # The list isn't too long 309.
+    
+        #Match up the JHU English names with the Macula English Glosses    
+    #exact_matches, non_matches = get_matches(macula_df[compare_col], jhu_eng_names)
+    
+    #Match up the JHU English names with the Macula English Glosses preserving the macula index.
+    
+    
+     # Add the exact matches to the macula_data_tsv.
+    # This can probably be done in one line by someone familiar with pandas.
+    
+    # new_col_name = "jhu_" + jhu_filename
+
+    # macula_df["jhu_eng"] = macula_df[compare_col].isin(jhu_eng_names)
+    # mask = macula_df["jhu_eng"] == True
+    # macula_df.loc[mask, 'jhu_eng'] = macula_df[compare_col]
+   
+    # other_mask = macula_df.jhu_eng == False
+    # macula_df.loc[other_mask, 'jhu_eng'] = ''
+    
+    # print(macula_df[[compare_col, 'jhu_eng']])
 
