@@ -1,0 +1,751 @@
+	en	Found	Not_found	Found_ratio
+0	Abaddon	0	2	0.0
+1	Abel	5	2	0.7142857142857143
+2	Abiathar	1	0	1.0
+3	Abiel	0	1	0.0
+4	Abigail	8	3	0.7272727272727273
+5	Abijah	2	2	0.5
+6	Abilene	0	1	0.0
+7	Abimael	0	1	0.0
+8	Abimelech	0	18	0.0
+9	Abinadab	3	0	1.0
+10	Abishai	6	4	0.6
+11	Abner	8	0	1.0
+12	Abraham	61	10	0.8591549295774648
+13	Abram	44	15	0.7457627118644068
+14	Absalom	39	7	0.8478260869565217
+15	Accad	0	1	0.0
+16	Achaicus	0	6	0.0
+17	Achim	0	2	0.0
+18	Adah	3	0	1.0
+19	Adam	5	3	0.625
+20	Addi	0	8	0.0
+21	Admah	0	3	0.0
+22	Adriatic Sea	0	1	0.0
+23	Aenon	0	2	0.0
+24	Agag	6	1	0.8571428571428571
+25	Ahaz	0	1	0.0
+26	Ahimelech	0	10	0.0
+27	Ahinoam	2	0	1.0
+28	Ahithophel	0	12	0.0
+29	Ahitub	2	2	0.5
+30	Ai	0	2	0.0
+31	Alexander	5	0	1.0
+32	Alexandrian	0	2	0.0
+33	Almighty One	0	1	0.0
+34	Almodad	1	0	1.0
+35	Alphaeus	0	2	0.0
+36	Amalek	10	2	0.8333333333333334
+37	Amalekite	0	3	0.0
+38	Ammon	4	0	1.0
+39	Ammonite	0	2	0.0
+40	Amorite	0	5	0.0
+41	Amos	0	2	0.0
+42	Amraphel	0	2	0.0
+43	Anamim	0	1	0.0
+44	Ananias	9	0	1.0
+45	Andronicus	0	11	0.0
+46	Aner	2	0	1.0
+47	Anna	3	0	1.0
+48	Antioch	14	1	0.9333333333333333
+49	Antipas	0	1	0.0
+50	Antipatris	0	4	0.0
+51	Aphek	0	1	0.0
+52	Aphiah	0	1	0.0
+53	Apollos	0	1	0.0
+54	Apphia	0	1	0.0
+55	Aram	2	3	0.4
+56	Ararat	1	0	1.0
+57	Archippus	0	5	0.0
+58	Areopagus	0	1	0.0
+59	Arioch	0	2	0.0
+60	Aristobulus	0	2	0.0
+61	Arkite	0	5	0.0
+62	Armageddon	0	5	0.0
+63	Arpachshad	0	6	0.0
+64	Arvadite	0	1	0.0
+65	Ashdod	2	2	0.5
+66	Ashdodite	0	2	0.0
+67	Asher	0	2	0.0
+68	Ashkenaz	0	1	0.0
+69	Ashteroth-Karnaim	0	1	0.0
+70	Ashtoreth	0	3	0.0
+71	Ashurite	0	1	0.0
+72	Asia	1	0	1.0
+73	Asian	0	1	0.0
+74	Asshur	1	0	1.0
+75	Assyria	2	0	1.0
+76	Asyncritus	0	2	0.0
+77	Athens	2	0	1.0
+78	Augustus	0	1	0.0
+79	Azekah	1	0	1.0
+80	Baal	1	0	1.0
+81	Babel	2	0	1.0
+82	Bahurim	1	0	1.0
+83	Balaam	0	6	0.0
+84	Balak	0	2	0.0
+85	Bar-Jesus	0	2	0.0
+86	Bar-Jona	0	1	0.0
+87	Barachiah	0	5	0.0
+88	Barsabbas	2	27	0.06896551724137931
+89	Bartimaeus	0	1	0.0
+90	Bathsheba	2	0	1.0
+91	Becorath	1	0	1.0
+92	Beer-Lahai-Roi	0	1	0.0
+93	Beersheba	5	4	0.5555555555555556
+94	Bela	0	2	0.0
+95	Beliar	0	2	0.0
+96	Ben-Ammi	1	0	1.0
+97	Benjamin	4	0	1.0
+98	Benjaminite	0	2	0.0
+99	Beor	0	1	0.0
+100	Bera	0	1	0.0
+101	Berean	0	3	0.0
+102	Bered	1	0	1.0
+103	Bernice	0	2	0.0
+104	Beth-Car	1	0	1.0
+105	Beth-Shan	2	0	1.0
+106	Bethany	1	2	0.3333333333333333
+107	Bethel	2	0	1.0
+108	Bethlehem	3	2	0.6
+109	Bethlehemite	0	2	0.0
+110	Bethphage	0	5	0.0
+111	Bethsaida	0	8	0.0
+112	Bethzatha	0	8	0.0
+113	Bezek	1	0	1.0
+114	Birsha	0	1	0.0
+115	Caesar	15	0	1.0
+116	Caesarea	1	0	1.0
+117	Cain	13	0	1.0
+118	Cainan	0	1	0.0
+119	Calah	2	0	1.0
+120	Calebite	0	1	0.0
+121	Calneh	0	1	0.0
+122	Canaan	9	4	0.6923076923076923
+123	Canaanite	0	5	0.0
+124	Candace	0	4	0.0
+125	Capernaum	0	1	0.0
+126	Caphtorim	0	1	0.0
+127	Cappadocia	0	1	0.0
+128	Carmel	3	2	0.6
+129	Carpus	0	1	0.0
+130	Casluhim	0	1	0.0
+131	Chaldea	0	3	0.0
+132	Chedorlaomer	0	5	0.0
+133	Chuza	0	1	0.0
+134	Claudia	0	1	0.0
+135	Claudius	2	1	0.6666666666666666
+136	Clement	0	1	0.0
+137	Cnidus	0	1	0.0
+138	Corinth	0	1	0.0
+139	Cornelius	0	1	0.0
+140	Cretan	0	1	0.0
+141	Crete	1	1	0.5
+142	Cush	4	0	1.0
+143	Cushite	0	4	0.0
+144	Cyprus	3	0	1.0
+145	Cyrene	4	0	1.0
+146	Dagon	2	2	0.5
+147	Dalmatia	0	1	0.0
+148	Damascene	0	1	0.0
+149	Damascus	2	0	1.0
+150	Dan	0	3	0.0
+151	Daniel	0	14	0.0
+152	David	193	38	0.8354978354978355
+153	Dead Sea	0	1	0.0
+154	Decapolis	0	1	0.0
+155	Dedan	1	0	1.0
+156	Demetrius	2	3	0.4
+157	Derbe	0	3	0.0
+158	Diklah	1	0	1.0
+159	Diotrephes	0	1	0.0
+160	Dodanim	0	1	0.0
+161	Doeg	2	1	0.6666666666666666
+162	Ebenezer	3	0	1.0
+163	Eber	7	0	1.0
+164	Eden	5	1	0.8333333333333334
+165	Edomite	0	3	0.0
+166	Egyptian	0	9	0.0
+167	Ekron	2	0	1.0
+168	Ekronite	0	1	0.0
+169	El Paran	0	1	0.0
+170	Elam	2	1	0.6666666666666666
+171	Eleazar	1	1	0.5
+172	Eli	19	8	0.7037037037037037
+173	Eliab	3	0	1.0
+174	Eliakim	2	0	1.0
+175	Eliam	1	0	1.0
+176	Eliezer	0	1	0.0
+177	Elihu	1	0	1.0
+178	Elisha	0	2	0.0
+179	Elishah	0	1	0.0
+180	Elizabeth	0	1	0.0
+181	Elkanah	7	1	0.875
+182	Ellasar	1	1	0.5
+183	Elmadam	0	2	0.0
+184	Emim	0	1	0.0
+185	Emmaus	0	1	0.0
+186	En Mishpat	0	1	0.0
+187	En-Dor	0	1	0.0
+188	En-Gedi	1	1	0.5
+189	Enoch	0	9	0.0
+190	Enosh	4	2	0.6666666666666666
+191	Epaphroditus	0	3	0.0
+192	Ephes-Dammim	0	1	0.0
+193	Ephraim	4	5	0.4444444444444444
+194	Ephrathite	0	1	0.0
+195	Erastus	2	0	1.0
+196	Erech	0	1	0.0
+197	Esau	0	15	0.0
+198	Eshcol	0	2	0.0
+199	Ethiopian	0	4	0.0
+200	Eubulus	0	1	0.0
+201	Euodia	0	1	0.0
+202	Euphrates	2	0	1.0
+203	Eve	2	0	1.0
+204	Festus	3	6	0.3333333333333333
+205	Gabriel	0	1	0.0
+206	Gadarene	0	2	0.0
+207	Gaius	0	3	0.0
+208	Galatia	2	0	1.0
+209	Galatian	0	4	0.0
+210	Galilean	0	4	0.0
+211	Galilee	40	5	0.8888888888888888
+212	Gallim	0	1	0.0
+213	Gallio	0	9	0.0
+214	Gamaliel	0	3	0.0
+215	Gath	4	0	1.0
+216	Gaza	0	1	0.0
+217	Gehenna	0	1	0.0
+218	Gennesaret	1	1	0.5
+219	Gera	1	0	1.0
+220	Gerar	2	1	0.6666666666666666
+221	Geshur	0	1	0.0
+222	Gether	1	0	1.0
+223	Gibeah	2	1	0.6666666666666666
+224	Gihon	1	0	1.0
+225	Gilboa	3	0	1.0
+226	Gilead	3	2	0.6
+227	Gilgal	3	0	1.0
+228	Giloh	0	1	0.0
+229	Gilonite	0	1	0.0
+230	Girgashite	0	2	0.0
+231	Gittite	0	1	0.0
+232	Goliath	3	0	1.0
+233	Gomer	1	1	0.5
+234	Gomorrah	5	6	0.45454545454545453
+235	Greece	0	9	0.0
+236	Greek	2	1	0.6666666666666666
+237	Greek woman	0	2	0.0
+238	Hachilah	0	2	0.0
+239	Hadoram	1	0	1.0
+240	Hagar	7	2	0.7777777777777778
+241	Ham	8	2	0.8
+242	Hamathite	0	1	0.0
+243	Hamor	0	1	0.0
+244	Hannah	9	3	0.75
+245	Haran	7	2	0.7777777777777778
+246	Havilah	4	0	1.0
+247	Hazarmaveth	1	0	1.0
+248	Hazazon Tamar	0	1	0.0
+249	Hebrew	4	2	0.6666666666666666
+250	Hebron	10	0	1.0
+251	Heli	0	16	0.0
+252	Hellenist	0	1	0.0
+253	Hermes	1	0	1.0
+254	Herod	21	7	0.75
+255	Herodias	0	2	0.0
+256	Herodion	0	3	0.0
+257	Heth	1	0	1.0
+258	Hittite	0	9	0.0
+259	Hivite	0	1	0.0
+260	Hobah	1	0	1.0
+261	Hophni	0	4	0.0
+262	Horite	0	1	0.0
+263	Hul	1	0	1.0
+264	Hushai	7	2	0.7777777777777778
+265	Iconium	0	1	0.0
+266	Irad	1	0	1.0
+267	Isaac	13	10	0.5652173913043478
+268	Isaiah	0	6	0.0
+269	Iscah	0	1	0.0
+270	Iscariot	0	10	0.0
+271	Ish-Bosheth	0	2	0.0
+272	Ishbi-Benob	0	1	0.0
+273	Ishmael	6	2	0.75
+274	Israel	139	37	0.7897727272727273
+275	Issachar	0	1	0.0
+276	Italy	0	1	0.0
+277	Ittai	0	3	0.0
+278	Ituraean	0	3	0.0
+279	Jabal	1	0	1.0
+280	Jabesh	6	5	0.5454545454545454
+281	Jacob	13	12	0.52
+282	Jambres	0	2	0.0
+283	James	25	4	0.8620689655172413
+284	Jannai	0	1	0.0
+285	Jannes	0	1	0.0
+286	Japheth	0	9	0.0
+287	Jared	3	3	0.5
+288	Jason	4	1	0.8
+289	Javan	1	1	0.5
+290	Jebusite	0	2	0.0
+291	Jedidiah	1	0	1.0
+292	Jephthah	0	4	0.0
+293	Jerah	1	0	1.0
+294	Jeroham	1	0	1.0
+295	Jerubbesheth	0	1	0.0
+296	Jerusalem	116	12	0.90625
+297	Jesse	12	7	0.631578947368421
+298	Jesus	0	2	0.0
+299	Jew	6	3	0.6666666666666666
+300	Jewish	130	40	0.7647058823529411
+301	Jezebel	0	1	0.0
+302	Jezreel	2	0	1.0
+303	Jezreelite	0	1	0.0
+304	Joab	16	6	0.7272727272727273
+305	Joanan	0	2	0.0
+306	Job	0	2	0.0
+307	Jobab	1	0	1.0
+308	Joda	0	2	0.0
+309	Joel	0	1	0.0
+310	John	80	13	0.8602150537634409
+311	Joktan	2	1	0.6666666666666666
+312	Jonam	0	1	0.0
+313	Jonathan	18	7	0.72
+314	Joppa	0	1	0.0
+315	Joram	0	4	0.0
+316	Jordan	3	0	1.0
+317	Jorim	0	2	0.0
+318	Joseph	23	3	0.8846153846153846
+319	Joses	0	1	0.0
+320	Joshua	0	675	0.0
+321	Josiah	0	2	0.0
+322	Jubal	1	0	1.0
+323	Judah	13	16	0.4482758620689655
+324	Judas	6	5	0.5454545454545454
+325	Judea	4	8	0.3333333333333333
+326	Judean	0	35	0.0
+327	Julia	0	1	0.0
+328	Justus	2	2	0.5
+329	Kadesh	2	1	0.6666666666666666
+330	Kadmonite	0	1	0.0
+331	Kenan	3	2	0.6
+332	Kenite	0	3	0.0
+333	Kenizzite	0	1	0.0
+334	Kidron	0	1	0.0
+335	Kiriath-Jearim	1	1	0.5
+336	Kiriathaim	0	1	0.0
+337	Kish	2	8	0.2
+338	Kittim	0	1	0.0
+339	Laish	0	1	0.0
+340	Lamech	0	13	0.0
+341	Laodicea	1	0	1.0
+342	Lasha	0	1	0.0
+343	Lazarus	10	1	0.9090909090909091
+344	Lehabim	0	1	0.0
+345	Levi	1	0	1.0
+346	Libya	0	1	0.0
+347	Lot	24	4	0.8571428571428571
+348	Lucius	1	3	0.25
+349	Lud	1	0	1.0
+350	Ludim	0	1	0.0
+351	Lycaonia	0	1	0.0
+352	Lycaonian	0	2	0.0
+353	Lycia	0	1	0.0
+354	Lysanias	0	1	0.0
+355	Macedonian	1	14	0.06666666666666667
+356	Madai	0	1	0.0
+357	Magadan	0	4	0.0
+358	Magog	1	9	0.1
+359	Mahalaleel	0	3	0.0
+360	Mahalalel	3	2	0.6
+361	Mahanaim	0	1	0.0
+362	Malchi-Shua	0	1	0.0
+363	Mamre	4	0	1.0
+364	Manasseh	0	1	0.0
+365	Maon	1	0	1.0
+366	Martha	0	1	0.0
+367	Mary	44	4	0.9166666666666666
+368	Mash	1	0	1.0
+369	Mattatha	0	2	0.0
+370	Matthat	0	2	0.0
+371	Mehujael	0	1	0.0
+372	Melchizedek	0	2	0.0
+373	Mesha	1	0	1.0
+374	Meshech	0	1	0.0
+375	Methuselah	4	3	0.5714285714285714
+376	Methushael	0	1	0.0
+377	Michael	0	1	0.0
+378	Michal	0	3	0.0
+379	Milcah	0	1	0.0
+380	Mizpa	6	0	1.0
+381	Mizraim	0	15	0.0
+382	Moab	2	0	1.0
+383	Moreh	1	0	1.0
+384	Moriah	1	0	1.0
+385	Most High	0	4	0.0
+386	Naamah	0	1	0.0
+387	Nabal	9	6	0.6
+388	Naggai	0	2	0.0
+389	Nahash	2	0	1.0
+390	Nahor	6	1	0.8571428571428571
+391	Nahshon	0	51	0.0
+392	Nahum	0	1	0.0
+393	Nain	0	1	0.0
+394	Naioth	0	1	0.0
+395	Naphtuhim	0	1	0.0
+396	Nathan	16	0	1.0
+397	Nathanael	0	11	0.0
+398	Nazarene	0	16	0.0
+399	Negeb	0	6	0.0
+400	Ner	3	0	1.0
+401	Nereus	0	1	0.0
+402	Nicolaitan	0	1	0.0
+403	Nicolas	0	5	0.0
+404	Nicopolis	0	1	0.0
+405	Nimrod	2	0	1.0
+406	Nineveh	2	0	1.0
+407	Ninevite	0	1	0.0
+408	Noah	27	9	0.75
+409	Nob	3	1	0.75
+410	Nod	1	0	1.0
+411	Obal	1	0	1.0
+412	Obed	0	1	0.0
+413	Onesimus	0	2	0.0
+414	Ophir	0	1	0.0
+415	Palti	0	1	0.0
+416	Paran	0	2	0.0
+417	Pathrusim	0	1	0.0
+418	Patmos	0	1	0.0
+419	Paul	149	6	0.9612903225806452
+420	Peleg	5	64	0.07246376811594203
+421	Peninnah	0	3	0.0
+422	Perizzite	0	2	0.0
+423	Peter	0	3	0.0
+424	Pharaoh	0	6	0.0
+425	Pharisee	0	3	0.0
+426	Phicol	0	2	0.0
+427	Philip	17	2	0.8947368421052632
+428	Philippi	0	1	0.0
+429	Philippian	0	1	0.0
+430	Philistine	0	85	0.0
+431	Phinehas	0	4	0.0
+432	Phoebe	0	3	0.0
+433	Pishon	1	0	1.0
+434	Pisidia	1	0	1.0
+435	Pontius	0	1	0.0
+436	Pontus	0	2	0.0
+437	Porcius	0	2	0.0
+438	Publius	0	2	0.0
+439	Pudens	0	1	0.0
+440	Put	1	0	1.0
+441	Quirinius	0	1	0.0
+442	Raamah	0	1	0.0
+443	Rabbah	1	0	1.0
+444	Rabbi	0	1	0.0
+445	Rachel	0	1	0.0
+446	Ramah	8	1	0.8888888888888888
+447	Ramathaim-Zophim	0	1	0.0
+448	Raphah	0	1	0.0
+449	Rehoboth	1	0	1.0
+450	Rephaim	0	2	0.0
+451	Resen	1	0	1.0
+452	Reu	0	4	0.0
+453	Reuben	0	2	0.0
+454	Rhodes	0	1	0.0
+455	Riphath	0	1	0.0
+456	Rome	1	11	0.08333333333333333
+457	Rufus	1	1	0.5
+458	Sabaoth	0	7	0.0
+459	Sabbath	0	15	0.0
+460	Sabbath rest	0	1	0.0
+461	Sabtah	1	0	1.0
+462	Sabteca	1	0	1.0
+463	Sala	1	0	1.0
+464	Salamis	0	2	0.0
+465	Salem	0	1	0.0
+466	Salmon	1	0	1.0
+467	Samaria	9	2	0.8181818181818182
+468	Samaritan	0	2	0.0
+469	Samaritan woman	0	8	0.0
+470	Samothrace	0	2	0.0
+471	Samson	0	2	0.0
+472	Samuel	89	8	0.9175257731958762
+473	Sapphira	0	1	0.0
+474	Sarah	19	4	0.8260869565217391
+475	Sarai	9	4	0.6923076923076923
+476	Sardis	0	1	0.0
+477	Satan	0	1	0.0
+478	Saul	119	26	0.8206896551724138
+479	Seba	1	0	1.0
+480	Seir	0	1	0.0
+481	Seleucia	0	1	0.0
+482	Semein	0	1	0.0
+483	Sephar	0	1	0.0
+484	Serug	4	0	1.0
+485	Seth	6	1	0.8571428571428571
+486	Shaalbim	0	4	0.0
+487	Shaaph	0	1	0.0
+488	Shaaraim	0	1	0.0
+489	Shamlai	0	1	0.0
+490	Shamma	0	14	0.0
+491	Shammah	1	0	1.0
+492	Shaveh	1	1	0.5
+493	Shealtiel	0	2	0.0
+494	Sheba	2	0	1.0
+495	Shechem	0	2	0.0
+496	Shelah	6	0	1.0
+497	Shelesh	0	1	0.0
+498	Shenazzar	0	1	0.0
+499	Shilonite	0	9	0.0
+500	Shilshah	0	1	0.0
+501	Shimeah	0	1	0.0
+502	Shimei	0	2	0.0
+503	Shinab	0	1	0.0
+504	Shunem	1	0	1.0
+505	Shur	3	0	1.0
+506	Sidon	1	2	0.3333333333333333
+507	Silas	0	5	0.0
+508	Siloam	0	3	0.0
+509	Silvanus	0	12	0.0
+510	Simeon	3	2	0.6
+511	Simon	28	25	0.5283018867924528
+512	Sinite	0	1	0.0
+513	Soco	1	0	1.0
+514	Sodom	14	7	0.6666666666666666
+515	Sosipater	0	1	0.0
+516	Sosthenes	1	0	1.0
+517	Spain	0	3	0.0
+518	Stone Pavement	0	1	0.0
+519	Syracuse	0	1	0.0
+520	Syria	0	1	0.0
+521	Syrophoenician	0	8	0.0
+522	Syrtis	0	1	0.0
+523	Tahkemonite	0	1	0.0
+524	Tamar	0	1	0.0
+525	Tarshish	0	1	0.0
+526	Tarsus	2	0	1.0
+527	Telaim	0	1	0.0
+528	Thessalonica	4	0	1.0
+529	Theudas	0	5	0.0
+530	Tiberias	1	2	0.3333333333333333
+531	Tiberius	0	2	0.0
+532	Tiglath-Pileser	0	1	0.0
+533	Tigris	1	0	1.0
+534	Timon	0	20	0.0
+535	Timothy	0	1	0.0
+536	Tirhanah	0	9	0.0
+537	Titus	0	2	0.0
+538	Tubal	0	2	0.0
+539	Tubal-Cain	0	1	0.0
+540	Tychicus	0	7	0.0
+541	Tyre	1	0	1.0
+542	Tyrian	0	1	0.0
+543	Ur	3	0	1.0
+544	Uriah	21	2	0.9130434782608695
+545	Uz	1	0	1.0
+546	Uzal	1	0	1.0
+547	YHWH	0	343	0.0
+548	Zacchaeus	0	2	0.0
+549	Zadok	0	7	0.0
+550	Zeboiim	0	3	0.0
+551	Zechariah	0	11	0.0
+552	Zemarite	0	1	0.0
+553	Zerah	0	1	0.0
+554	Zeror	1	0	1.0
+555	Zeruiah	3	2	0.6
+556	Ziklag	1	0	1.0
+557	Zillah	3	0	1.0
+558	Ziph	0	1	0.0
+559	Ziphites	0	1	0.0
+560	Zoar	5	2	0.7142857142857143
+561	Zuph	0	2	0.0
+562	Zuzim	0	1	0.0
+563	a promise	0	2	0.0
+564	abomination of desolation	0	4	0.0
+565	abyss	0	1	0.0
+566	act.: raise	0	5	0.0
+567	alabaster jar	0	5	0.0
+568	angel	0	2	0.0
+569	anoint	0	356	0.0
+570	anointed one	0	3	0.0
+571	apron	0	3	0.0
+572	asp	0	14	0.0
+573	band of cloth	0	1	0.0
+574	bands	0	7	0.0
+575	barley	0	5	0.0
+576	basket	0	1	0.0
+577	be or become a disciple	0	1	0.0
+578	be unequally yoked	0	2	0.0
+579	bear	0	4	0.0
+580	beast of burden	0	2	0.0
+581	beer	0	2	0.0
+582	behavior	0	11	0.0
+583	believe	0	1	0.0
+584	bier	0	9	0.0
+585	bit	0	1	0.0
+586	blameless	0	1	0.0
+587	blasphemous	0	1	0.0
+588	body	0	1	0.0
+589	bowl	0	13	0.0
+590	branch	0	2	0.0
+591	calf	0	1	0.0
+592	carnal	0	1	0.0
+593	change one's mind	0	2	0.0
+594	cheer up	0	1	0.0
+595	cleansing	0	6	0.0
+596	cloak	0	1	0.0
+597	clothing	0	1	0.0
+598	co-member	0	1	0.0
+599	conduct oneself	0	2	0.0
+600	container	0	2	0.0
+601	creeping animal	0	1	0.0
+602	crucify along with someone else	0	1	0.0
+603	debtor	0	1	0.0
+604	defile	0	1	0.0
+605	defilement	0	1	0.0
+606	deliver	0	1	0.0
+607	deserved	0	25	0.0
+608	destruction	0	1	0.0
+609	disgusting	0	2	0.0
+610	do good	3	46	0.061224489795918366
+611	dreadful event or sight	0	1	0.0
+612	dry wood	0	3	0.0
+613	eagle	0	1	0.0
+614	eaten by worms	0	1	0.0
+615	enemy	0	1	0.0
+616	enthusiast	0	2	0.0
+617	eternal	0	20	0.0
+618	feed box	0	2	0.0
+619	field grasses	0	7	0.0
+620	fornication	0	1	0.0
+621	fox	0	1	0.0
+622	friend	0	15	0.0
+623	friendship	0	1	0.0
+624	from Sidon	0	1	0.0
+625	fury of fire	0	1	0.0
+626	give up or lay aside what one possesses	0	1	0.0
+627	grape	0	2	0.0
+628	group of servants	0	2	0.0
+629	guardian of the temple	0	2	0.0
+630	guestroom	0	4	0.0
+631	have	0	2	0.0
+632	have authority	0	1	0.0
+633	heifer	0	35	0.0
+634	hired worker	0	3	0.0
+635	honest	0	1	0.0
+636	idle	0	2	0.0
+637	in Hebrew	0	3	0.0
+638	incense altar	0	1	0.0
+639	inn	0	5	0.0
+640	inner room	0	2	0.0
+641	judgement seat	0	1	0.0
+642	just	0	3	0.0
+643	kingdom	0	1	0.0
+644	knower of hearts	0	2	0.0
+645	lantern	0	1	0.0
+646	laurustinus	0	1	0.0
+647	lawless	0	1	0.0
+648	lazy gluttons	0	2	0.0
+649	leaf	0	1	0.0
+650	leather	0	1	0.0
+651	leopard	0	1	0.0
+652	liberation	0	10	0.0
+653	like a Jew	0	1	0.0
+654	likeminded	0	7	0.0
+655	likeness	0	7	0.0
+656	linen cloth	0	4	0.0
+657	live	1	1	0.5
+658	long robe	0	1	0.0
+659	make ready for service	0	2	0.0
+660	male goat	0	1	0.0
+661	master	0	5	0.0
+662	merciful	0	1	0.0
+663	midheaven	0	2	0.0
+664	mighty act	0	8	0.0
+665	mustard plant	0	3	0.0
+666	nation	0	4	0.0
+667	needle	0	1	0.0
+668	of Carmel	0	1	0.0
+669	of a mill	0	2	0.0
+670	of glass	0	5	0.0
+671	palace	0	1	0.0
+672	palm tree	0	1	0.0
+673	peace offering	0	1	0.0
+674	perfume	0	1	0.0
+675	plant	0	2	0.0
+676	plate	0	1	0.0
+677	pool	0	1	0.0
+678	praise	0	2	0.0
+679	priest	0	1	0.0
+680	priesthood	0	1	0.0
+681	proclamation	0	9	0.0
+682	profane	0	1	0.0
+683	prominent man	0	1	0.0
+684	pure	0	1	0.0
+685	quadrans	0	1	0.0
+686	quantity of money	0	1	0.0
+687	ransom	0	6	0.0
+688	rational	0	1	0.0
+689	redeem	0	3	0.0
+690	reed	0	13	0.0
+691	resentment	0	1	0.0
+692	ripe fruit	0	2	0.0
+693	roof	0	3	0.0
+694	rooster	0	2	0.0
+695	rudder	0	117	0.0
+696	ruler	0	3	0.0
+697	ruling power	0	1	0.0
+698	sail	0	1	0.0
+699	scholar	0	2	0.0
+700	sea creature	0	1	0.0
+701	self-imposed religion	0	2	0.0
+702	serve as a priest	0	1	0.0
+703	service	0	1	0.0
+704	shedding of blood	0	2	0.0
+705	sheet	0	2	0.0
+706	show kindness towards	0	2	0.0
+707	sign	0	1	0.0
+708	sin previously	0	5	0.0
+709	skin	0	3	0.0
+710	small plants	0	1	0.0
+711	speak the truth	0	1	0.0
+712	speck	0	1	0.0
+713	stern	0	1	0.0
+714	stick	0	1	0.0
+715	straw	0	19	0.0
+716	tablet	0	40	0.0
+717	teacher of the law	0	1	0.0
+718	temptation	0	2	0.0
+719	tenderhearted	0	1	0.0
+720	the means of forgiveness	0	6	0.0
+721	theater	0	1	0.0
+722	things	0	1	0.0
+723	to hold in Tartarus	0	3	0.0
+724	to live	0	1	0.0
+725	to minister	0	1	0.0
+726	to wish	0	1	0.0
+727	to worship	0	1	0.0
+728	torch	0	1	0.0
+729	towel	0	3	0.0
+730	tower	0	1	0.0
+731	trumpeter	0	2	0.0
+732	turtle dove	0	3	0.0
+733	two-drachma piece	0	1	0.0
+734	undefiled	0	2	0.0
+735	universe	0	1	0.0
+736	upstairs room	0	2	0.0
+737	washbasin	0	1	0.0
+738	wedding hall	0	1	0.0
+739	wineskin	0	15	0.0
+740	winnowing shovel	0	1	0.0
+741	without God	0	1	0.0
+742	witness	0	13	0.0
+743	wolf	0	3	0.0
+744	word	0	1	0.0
+745	world	0	4	0.0
+746	worldly	0	8	0.0
+747	worship	0	2	0.0
+748	yoke	0	2	0.0
+749	yoke-fellow	0	2	0.0

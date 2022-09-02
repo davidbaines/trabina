@@ -1,0 +1,570 @@
+	en	Found	Not_found	Found_ratio
+0	Abaddon	0	5	0.0
+1	Abel	0	2	0.0
+2	Abijah	0	3	0.0
+3	Abilene	0	1	0.0
+4	Abiud	0	1	0.0
+5	Abraham	0	2	0.0
+6	Achaicus	0	10	0.0
+7	Achim	0	2	0.0
+8	Addi	0	9	0.0
+9	Adriatic Sea	0	1	0.0
+10	Aenon	0	2	0.0
+11	Ahaz	0	1	0.0
+12	Alexander	5	0	1.0
+13	Alexandrian	0	2	0.0
+14	Alphaeus	0	4	0.0
+15	Amos	0	2	0.0
+16	Ananias	9	0	1.0
+17	Andronicus	0	13	0.0
+18	Anna	2	2	0.5
+19	Antioch	15	0	1.0
+20	Antipas	0	1	0.0
+21	Antipatris	0	4	0.0
+22	Apollonia	0	1	0.0
+23	Apollos	0	1	0.0
+24	Apphia	0	1	0.0
+25	Aram	0	2	0.0
+26	Archelaus	0	1	0.0
+27	Archippus	0	5	0.0
+28	Areopagus	0	1	0.0
+29	Aristarchus	0	1	0.0
+30	Aristobulus	0	4	0.0
+31	Armageddon	0	5	0.0
+32	Artemas	0	1	0.0
+33	Asher	0	2	0.0
+34	Asia	1	0	1.0
+35	Asian	0	2	0.0
+36	Asyncritus	0	2	0.0
+37	Athens	0	2	0.0
+38	Augustus	0	1	0.0
+39	Balaam	0	12	0.0
+40	Balak	1	2	0.3333333333333333
+41	Bar-Jesus	0	4	0.0
+42	Bar-Jona	0	1	0.0
+43	Barachiah	0	11	0.0
+44	Barak	0	1	0.0
+45	Barnabas	0	1	0.0
+46	Barsabbas	0	29	0.0
+47	Bartholomew	0	1	0.0
+48	Bartimaeus	0	1	0.0
+49	Beliar	0	7	0.0
+50	Beor	0	1	0.0
+51	Berean	0	3	0.0
+52	Bernice	0	4	0.0
+53	Bethany	0	3	0.0
+54	Bethlehem	0	1	0.0
+55	Bethphage	0	7	0.0
+56	Bethsaida	0	8	0.0
+57	Bethzatha	0	11	0.0
+58	Caesar	0	15	0.0
+59	Caesarea	0	2	0.0
+60	Cainan	1	2	0.3333333333333333
+61	Cana	0	1	0.0
+62	Canaan	0	1	0.0
+63	Candace	0	4	0.0
+64	Capernaum	0	1	0.0
+65	Cappadocia	0	1	0.0
+66	Carpus	0	3	0.0
+67	Chuza	0	2	0.0
+68	Claudia	0	1	0.0
+69	Claudius	2	1	0.6666666666666666
+70	Clement	0	1	0.0
+71	Cnidus	0	1	0.0
+72	Corinth	0	1	0.0
+73	Cornelius	0	2	0.0
+74	Cretan	0	1	0.0
+75	Crete	0	2	0.0
+76	Cyprus	1	2	0.3333333333333333
+77	Cyrene	1	5	0.16666666666666666
+78	Dalmatia	0	1	0.0
+79	Damascene	0	1	0.0
+80	Damascus	0	1	0.0
+81	Daniel	0	15	0.0
+82	David	0	1	0.0
+83	Decapolis	0	1	0.0
+84	Demetrius	2	3	0.4
+85	Derbe	0	3	0.0
+86	Diotrephes	0	1	0.0
+87	Egyptian	0	4	0.0
+88	Eleazar	0	1	0.0
+89	Eliakim	0	2	0.0
+90	Eliezer	0	1	0.0
+91	Elisha	0	2	0.0
+92	Eliud	0	1	0.0
+93	Elizabeth	0	1	0.0
+94	Elmadam	0	2	0.0
+95	Emmaus	0	1	0.0
+96	Enoch	0	1	0.0
+97	Epaphras	0	1	0.0
+98	Epaphroditus	0	3	0.0
+99	Ephraim	0	5	0.0
+100	Erastus	2	0	1.0
+101	Esau	0	22	0.0
+102	Ethiopian	0	5	0.0
+103	Eubulus	0	2	0.0
+104	Euodia	0	1	0.0
+105	Festus	3	6	0.3333333333333333
+106	Gabriel	0	1	0.0
+107	Gadarene	0	2	0.0
+108	Gaius	1	3	0.25
+109	Galatia	0	2	0.0
+110	Galatian	0	4	0.0
+111	Galilean	0	5	0.0
+112	Galilee	0	57	0.0
+113	Gallio	0	11	0.0
+114	Gamaliel	0	3	0.0
+115	Gaza	0	1	0.0
+116	Gehenna	0	3	0.0
+117	Gennesaret	0	4	0.0
+118	Gerasene	0	1	0.0
+119	Gethsemane	0	1	0.0
+120	Gideon	0	1	0.0
+121	Gomorrah	0	3	0.0
+122	Greece	0	9	0.0
+123	Greek	0	3	0.0
+124	Greek woman	0	2	0.0
+125	Hamor	0	1	0.0
+126	Hebrew	0	3	0.0
+127	Heli	5	24	0.1724137931034483
+128	Hellenist	0	1	0.0
+129	Hermes	0	2	0.0
+130	Hermogenes	0	1	0.0
+131	Herod	39	0	1.0
+132	Herodians	0	1	0.0
+133	Herodias	0	3	0.0
+134	Herodion	0	6	0.0
+135	Iconium	0	2	0.0
+136	Idumea	0	1	0.0
+137	Isaac	0	10	0.0
+138	Isaiah	0	6	0.0
+139	Iscariot	0	20	0.0
+140	Israel	64	11	0.8533333333333334
+141	Issachar	0	2	0.0
+142	Italy	1	0	1.0
+143	Ituraean	0	4	0.0
+144	Jacob	0	36	0.0
+145	Jairus	0	1	0.0
+146	Jambres	0	2	0.0
+147	James	0	41	0.0
+148	Jannai	0	1	0.0
+149	Jannes	0	2	0.0
+150	Jared	0	1	0.0
+151	Jason	0	6	0.0
+152	Jechoniah	0	1	0.0
+153	Jehoshaphat	0	1	0.0
+154	Jephthah	0	5	0.0
+155	Jerusalem	0	143	0.0
+156	Jesus	0	3	0.0
+157	Jew	0	9	0.0
+158	Jewish	0	186	0.0
+159	Jezebel	0	1	0.0
+160	Joanan	0	2	0.0
+161	Joanna	0	1	0.0
+162	Job	0	2	0.0
+163	Joda	0	3	0.0
+164	Joel	0	1	0.0
+165	John	0	136	0.0
+166	Jonah	0	1	0.0
+167	Jonam	0	1	0.0
+168	Joppa	0	1	0.0
+169	Joram	0	9	0.0
+170	Jorim	0	2	0.0
+171	Josech	0	2	0.0
+172	Joseph	0	35	0.0
+173	Joses	0	2	0.0
+174	Joshua	0	914	0.0
+175	Josiah	0	2	0.0
+176	Judah	0	27	0.0
+177	Judas	0	14	0.0
+178	Judea	0	15	0.0
+179	Judean	0	43	0.0
+180	Julia	0	1	0.0
+181	Julius	0	4	0.0
+182	Junias	0	1	0.0
+183	Justus	0	4	0.0
+184	Kidron	0	2	0.0
+185	Kish	0	8	0.0
+186	Lamech	0	4	0.0
+187	Laodicea	0	1	0.0
+188	Lazarus	11	0	1.0
+189	Levi	4	3	0.5714285714285714
+190	Levite	0	1	0.0
+191	Libya	0	1	0.0
+192	Lot	0	1	0.0
+193	Lucius	1	3	0.25
+194	Lycaonia	1	0	1.0
+195	Lycaonian	0	2	0.0
+196	Lycia	0	1	0.0
+197	Lysanias	0	1	0.0
+198	Lysias	0	1	0.0
+199	Maath	1	0	1.0
+200	Macedonian	0	22	0.0
+201	Magadan	0	4	0.0
+202	Magdalene	0	1	0.0
+203	Magog	0	12	0.0
+204	Mahalaleel	0	5	0.0
+205	Malchus	0	1	0.0
+206	Malta	0	1	0.0
+207	Manaen	0	1	0.0
+208	Manasseh	0	2	0.0
+209	Martha	0	1	0.0
+210	Mary	52	3	0.9454545454545454
+211	Mattatha	0	2	0.0
+212	Mattathias	0	2	0.0
+213	Matthat	0	6	0.0
+214	Matthias	0	1	0.0
+215	Melchi	8	1	0.8888888888888888
+216	Melchizedek	0	1	0.0
+217	Methuselah	0	2	0.0
+218	Michael	0	1	0.0
+219	Midian	0	1	0.0
+220	Naaman	0	1	0.0
+221	Naggai	0	3	0.0
+222	Nahshon	0	80	0.0
+223	Nahum	0	1	0.0
+224	Nain	0	1	0.0
+225	Naphtali	0	2	0.0
+226	Nathan	6	0	1.0
+227	Nathanael	0	13	0.0
+228	Nazarene	0	18	0.0
+229	Nazareth	0	1	0.0
+230	Nereus	0	1	0.0
+231	Neri	0	1	0.0
+232	Nicodemus	0	2	0.0
+233	Nicolaitan	0	1	0.0
+234	Nicolas	0	5	0.0
+235	Nicopolis	0	1	0.0
+236	Ninevite	0	1	0.0
+237	Noah	0	1	0.0
+238	Obed	0	1	0.0
+239	Onesimus	0	2	0.0
+240	Paphos	0	1	0.0
+241	Patmos	0	1	0.0
+242	Paul	156	2	0.9873417721518988
+243	Peleg	0	98	0.0
+244	Perga	1	1	0.5
+245	Peter	0	3	0.0
+246	Pharisee	0	5	0.0
+247	Philip	22	1	0.9565217391304348
+248	Philippi	0	1	0.0
+249	Philippian	0	1	0.0
+250	Phoebe	0	3	0.0
+251	Phoenix	0	1	0.0
+252	Pisidia	1	0	1.0
+253	Pontius	0	1	0.0
+254	Pontus	0	3	0.0
+255	Porcius	0	2	0.0
+256	Publius	0	2	0.0
+257	Pudens	0	1	0.0
+258	Quirinius	0	1	0.0
+259	Rabbi	0	2	0.0
+260	Rachel	0	1	0.0
+261	Ramah	0	1	0.0
+262	Rephan	0	1	0.0
+263	Reuben	0	2	0.0
+264	Rhegium	0	1	0.0
+265	Rhoda	0	1	0.0
+266	Rhodes	0	1	0.0
+267	Rome	1	11	0.08333333333333333
+268	Rufus	1	1	0.5
+269	Ruth	0	1	0.0
+270	Sabaoth	0	7	0.0
+271	Sabbath	0	15	0.0
+272	Sabbath rest	0	2	0.0
+273	Sala	1	1	0.5
+274	Salamis	0	3	0.0
+275	Salem	0	1	0.0
+276	Salim	0	1	0.0
+277	Salmon	0	1	0.0
+278	Salmone	0	2	0.0
+279	Samaria	9	2	0.8181818181818182
+280	Samaritan	0	2	0.0
+281	Samaritan woman	0	9	0.0
+282	Samothrace	0	2	0.0
+283	Samson	1	2	0.3333333333333333
+284	Samuel	0	1	0.0
+285	Sapphira	0	1	0.0
+286	Sardis	0	1	0.0
+287	Satan	0	1	0.0
+288	Saul	8	0	1.0
+289	Seleucia	0	1	0.0
+290	Semein	0	1	0.0
+291	Serug	0	1	0.0
+292	Shealtiel	0	2	0.0
+293	Shechem	0	1	0.0
+294	Shem	0	1	0.0
+295	Sidon	1	0	1.0
+296	Silas	0	9	0.0
+297	Siloam	0	4	0.0
+298	Silvanus	0	12	0.0
+299	Simeon	3	3	0.5
+300	Simon	63	10	0.863013698630137
+301	Sodom	0	1	0.0
+302	Solomon	0	2	0.0
+303	Sosipater	0	1	0.0
+304	Sosthenes	0	1	0.0
+305	Spain	0	9	0.0
+306	Stephanas	0	1	0.0
+307	Stone Pavement	0	1	0.0
+308	Syracuse	0	1	0.0
+309	Syria	0	1	0.0
+310	Syrophoenician	0	8	0.0
+311	Syrtis	0	1	0.0
+312	Tamar	0	2	0.0
+313	Tarsus	0	2	0.0
+314	Tertullus	0	1	0.0
+315	Thessalonica	0	4	0.0
+316	Theudas	0	5	0.0
+317	Tiberias	1	2	0.3333333333333333
+318	Tiberius	0	2	0.0
+319	Timaeus	0	1	0.0
+320	Timon	0	24	0.0
+321	Timothy	0	1	0.0
+322	Titus	0	2	0.0
+323	Troas	0	1	0.0
+324	Twin Brothers	0	1	0.0
+325	Tychicus	0	11	0.0
+326	Tyre	1	0	1.0
+327	Tyrian	0	1	0.0
+328	Uriah	0	1	0.0
+329	Zacchaeus	0	3	0.0
+330	Zadok	0	14	0.0
+331	Zarephath	0	3	0.0
+332	Zechariah	0	12	0.0
+333	Zerah	0	2	0.0
+334	Zion	0	2	0.0
+335	a promise	0	2	0.0
+336	abba	0	1	0.0
+337	abomination of desolation	0	13	0.0
+338	abyss	0	4	0.0
+339	act.: raise	0	7	0.0
+340	alabaster jar	0	6	0.0
+341	angel	0	2	0.0
+342	anoint	0	447	0.0
+343	anointed one	0	3	0.0
+344	apparition	0	1	0.0
+345	apron	0	3	0.0
+346	arbitrator	0	1	0.0
+347	asp	0	16	0.0
+348	band of cloth	0	1	0.0
+349	bands	0	12	0.0
+350	barley	0	5	0.0
+351	basket	0	1	0.0
+352	be or become a disciple	0	1	0.0
+353	be poured out	0	2	0.0
+354	be unequally yoked	0	3	0.0
+355	bear	0	4	0.0
+356	bear witness	0	1	0.0
+357	beast of burden	0	2	0.0
+358	beer	0	5	0.0
+359	behavior	0	11	0.0
+360	believe	0	1	0.0
+361	bier	0	12	0.0
+362	bird	0	1	0.0
+363	bit	0	1	0.0
+364	blameless	0	1	0.0
+365	blasphemous	0	1	0.0
+366	body	0	1	0.0
+367	bowl	0	14	0.0
+368	branch	0	2	0.0
+369	calf	0	1	0.0
+370	carnal	0	1	0.0
+371	carriage	0	1	0.0
+372	casting-net	0	1	0.0
+373	change one's mind	0	2	0.0
+374	cheer up	0	1	0.0
+375	cleansing	0	9	0.0
+376	cloak	0	1	0.0
+377	clothing	0	1	0.0
+378	co-member	0	1	0.0
+379	conduct oneself	0	2	0.0
+380	container	0	2	0.0
+381	creeping animal	0	1	0.0
+382	crucify along with someone else	0	1	0.0
+383	debtor	0	1	0.0
+384	defile	0	1	0.0
+385	defilement	0	2	0.0
+386	deliver	0	1	0.0
+387	demonic	0	1	0.0
+388	denarius	0	1	0.0
+389	descendant of Aaron	0	1	0.0
+390	deserved	0	25	0.0
+391	destruction	0	1	0.0
+392	disbelieve	0	1	0.0
+393	disgusting	0	2	0.0
+394	do good	0	73	0.0
+395	dreadful event or sight	0	1	0.0
+396	dry wood	0	3	0.0
+397	eagle	0	1	0.0
+398	eaten by worms	0	1	0.0
+399	enemy	0	1	0.0
+400	enthusiast	0	2	0.0
+401	eternal	0	25	0.0
+402	fasting	0	1	0.0
+403	fearful	0	1	0.0
+404	feed box	0	3	0.0
+405	field grasses	0	7	0.0
+406	foal	0	1	0.0
+407	fornication	0	1	0.0
+408	fox	0	1	0.0
+409	friend	0	15	0.0
+410	friendship	0	1	0.0
+411	from Sidon	0	1	0.0
+412	fury of fire	0	1	0.0
+413	garden plant	0	1	0.0
+414	give up or lay aside what one possesses	0	1	0.0
+415	gnat	0	1	0.0
+416	goddess	0	1	0.0
+417	grape	0	3	0.0
+418	group of servants	0	2	0.0
+419	guardian of the temple	0	2	0.0
+420	guestroom	0	8	0.0
+421	happiness	0	1	0.0
+422	have	0	2	0.0
+423	have authority	0	1	0.0
+424	have power	0	1	0.0
+425	have sympathy for	0	1	0.0
+426	he-goat	0	1	0.0
+427	heifer	0	59	0.0
+428	hired worker	0	3	0.0
+429	honest	0	1	0.0
+430	hope	0	1	0.0
+431	idle	0	2	0.0
+432	in Hebrew	0	4	0.0
+433	incense altar	0	4	0.0
+434	inn	0	5	0.0
+435	inner room	0	2	0.0
+436	judgement seat	0	3	0.0
+437	just	0	3	0.0
+438	kid	0	1	0.0
+439	kindness	0	2	0.0
+440	kingdom	0	1	0.0
+441	knower of hearts	0	2	0.0
+442	lamb	0	1	0.0
+443	lantern	0	1	0.0
+444	lawless	0	1	0.0
+445	lazy gluttons	0	2	0.0
+446	leaf	0	1	0.0
+447	leather	0	1	0.0
+448	leopard	0	1	0.0
+449	liberation	0	10	0.0
+450	like a Jew	0	1	0.0
+451	likeminded	0	11	0.0
+452	likeness	0	8	0.0
+453	linen cloth	0	4	0.0
+454	live	0	2	0.0
+455	long robe	0	1	0.0
+456	loving dearly	0	1	0.0
+457	make ready for service	0	2	0.0
+458	master	0	5	0.0
+459	merciful	1	0	1.0
+460	merciless	0	1	0.0
+461	midheaven	0	2	0.0
+462	mighty act	0	8	0.0
+463	moth	0	1	0.0
+464	mustard plant	0	3	0.0
+465	myrrhed wine	0	1	0.0
+466	nail	0	1	0.0
+467	nation	0	6	0.0
+468	needle	0	2	0.0
+469	object of worship	0	1	0.0
+470	of Adramyttium	0	1	0.0
+471	of a mill	0	2	0.0
+472	of glass	0	5	0.0
+473	offering box	0	1	0.0
+474	oil of nard	0	1	0.0
+475	palace	0	1	0.0
+476	palm branch	0	1	0.0
+477	palm tree	0	1	0.0
+478	parchment	0	1	0.0
+479	perfume	0	1	0.0
+480	plant	0	2	0.0
+481	plate	0	1	0.0
+482	pool	0	1	0.0
+483	prayer	0	2	0.0
+484	priest	0	3	0.0
+485	priesthood	0	1	0.0
+486	priestly office	0	1	0.0
+487	proclamation	0	9	0.0
+488	profane	0	1	0.0
+489	prominent man	0	1	0.0
+490	promise in marriage	0	1	0.0
+491	pure	0	1	0.0
+492	purse	0	1	0.0
+493	quadrans	0	1	0.0
+494	quantity of money	0	1	0.0
+495	ransom	0	7	0.0
+496	rational	0	1	0.0
+497	redeem	0	5	0.0
+498	reed	0	16	0.0
+499	resentment	0	1	0.0
+500	resurrection	0	1	0.0
+501	ripe fruit	0	2	0.0
+502	roof	0	3	0.0
+503	rooster	0	2	0.0
+504	rudder	0	156	0.0
+505	ruler	0	3	0.0
+506	ruling power	0	1	0.0
+507	sail	0	1	0.0
+508	salvation	0	1	0.0
+509	sandal	0	1	0.0
+510	scarlet cloth	0	1	0.0
+511	scholar	0	4	0.0
+512	sea creature	0	1	0.0
+513	self-imposed religion	0	2	0.0
+514	serve as a priest	0	5	0.0
+515	service	0	1	0.0
+516	shedding of blood	0	2	0.0
+517	sheet	0	2	0.0
+518	show kindness towards	0	2	0.0
+519	sign	0	1	0.0
+520	sin previously	0	6	0.0
+521	sister	0	1	0.0
+522	skin	0	3	0.0
+523	small fish	0	1	0.0
+524	small plants	0	1	0.0
+525	something definite	0	1	0.0
+526	speak the truth	0	1	0.0
+527	spear	0	1	0.0
+528	speck	0	1	0.0
+529	step	0	1	0.0
+530	stern	0	1	0.0
+531	stick	0	1	0.0
+532	straw	0	29	0.0
+533	tablet	0	55	0.0
+534	teacher of the law	0	1	0.0
+535	temple	0	1	0.0
+536	temptation	0	2	0.0
+537	tenderhearted	0	1	0.0
+538	the means of forgiveness	0	6	0.0
+539	theater	0	1	0.0
+540	things	0	1	0.0
+541	to hold in Tartarus	0	3	0.0
+542	to live	0	1	0.0
+543	to minister	0	1	0.0
+544	to wish	0	1	0.0
+545	to worship	0	1	0.0
+546	torch	0	1	0.0
+547	towel	0	3	0.0
+548	tower	0	1	0.0
+549	tranquil	0	3	0.0
+550	trumpeter	0	2	0.0
+551	turtle dove	0	3	0.0
+552	two-drachma piece	0	1	0.0
+553	undefiled	0	3	0.0
+554	universe	0	1	0.0
+555	upstairs room	0	2	0.0
+556	washbasin	0	3	0.0
+557	wedding hall	0	1	0.0
+558	wineskin	0	18	0.0
+559	winnowing shovel	0	1	0.0
+560	without God	0	1	0.0
+561	witness	0	13	0.0
+562	wolf	0	3	0.0
+563	word	0	1	0.0
+564	world	0	6	0.0
+565	worldly	0	8	0.0
+566	worship	0	4	0.0
+567	yoke	0	3	0.0
+568	yoke-fellow	0	2	0.0

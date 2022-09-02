@@ -1,0 +1,78 @@
+	en	Found	Not_found	Found_ratio
+0	Andronicus	0	5	0.0
+1	Anna	2	0	1.0
+2	Aristobulus	0	1	0.0
+3	Barachiah	0	2	0.0
+4	Bethany	1	0	1.0
+5	Bethlehem	0	1	0.0
+6	Bethphage	0	2	0.0
+7	Bethsaida	0	1	0.0
+8	Bethzatha	0	3	0.0
+9	Candace	0	4	0.0
+10	Carpus	0	1	0.0
+11	Cnidus	0	1	0.0
+12	Esau	0	4	0.0
+13	Gabriel	0	1	0.0
+14	Galilean	0	1	0.0
+15	Galilee	16	0	1.0
+16	Gallio	0	1	0.0
+17	Gideon	0	1	0.0
+18	Gomorrah	0	1	0.0
+19	Greek woman	0	1	0.0
+20	Heli	0	2	0.0
+21	Israel	5	0	1.0
+22	Jacob	3	7	0.3
+23	Jerusalem	13	0	1.0
+24	Jew	0	1	0.0
+25	Jewish	2	68	0.02857142857142857
+26	John	19	4	0.8260869565217391
+27	Joseph	4	0	1.0
+28	Joshua	0	258	0.0
+29	Judah	0	8	0.0
+30	Judas	1	0	1.0
+31	Judea	0	3	0.0
+32	Judean	0	6	0.0
+33	Lazarus	11	0	1.0
+34	Magog	0	3	0.0
+35	Martha	0	1	0.0
+36	Mary	15	0	1.0
+37	Nahshon	0	13	0.0
+38	Nathan	6	0	1.0
+39	Nathanael	0	3	0.0
+40	Nazarene	0	2	0.0
+41	Nicolas	0	5	0.0
+42	Peleg	0	20	0.0
+43	Philip	12	0	1.0
+44	Rome	0	1	0.0
+45	Salem	0	1	0.0
+46	Samaria	2	3	0.4
+47	Samaritan woman	1	3	0.25
+48	Shechem	0	1	0.0
+49	Simon	25	0	1.0
+50	Tiberias	1	0	1.0
+51	Tiberius	0	2	0.0
+52	Twin Brothers	0	1	0.0
+53	act.: raise	0	5	0.0
+54	anoint	0	30	0.0
+55	apron	0	2	0.0
+56	band of cloth	0	1	0.0
+57	bands	0	1	0.0
+58	beer	0	1	0.0
+59	bier	0	1	0.0
+60	change one's mind	0	2	0.0
+61	cleansing	0	5	0.0
+62	denarius	0	1	0.0
+63	deserved	0	3	0.0
+64	do good	0	11	0.0
+65	enemy	0	1	0.0
+66	heifer	0	2	0.0
+67	just	0	3	0.0
+68	likeminded	0	5	0.0
+69	proclamation	0	1	0.0
+70	reed	0	5	0.0
+71	rudder	0	34	0.0
+72	straw	0	3	0.0
+73	tablet	0	20	0.0
+74	towel	0	1	0.0
+75	universe	0	1	0.0
+76	witness	0	9	0.0
